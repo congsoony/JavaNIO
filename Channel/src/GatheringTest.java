@@ -5,7 +5,7 @@ import java.nio.channels.GatheringByteChannel;
 
 public class GatheringTest {
     public static void main(String[] args) throws IOException {
-        FileOutputStream fo = new FileOutputStream("test.txt");
+        FileOutputStream fo = new FileOutputStream("C:/test.txt");
         GatheringByteChannel channel = fo.getChannel();
 
         ByteBuffer header = ByteBuffer.allocateDirect(20);
