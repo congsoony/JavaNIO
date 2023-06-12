@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-06-12T17:14:47</date>
+  <millis>1686557687743</millis>
+  <sequence>0</sequence>
+  <logger>net.daum.javacafe</logger>
+  <level>INFO</level>
+  <class>net.daum.javacafe.SimpleChatServer</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>Server is started..</message>
+</record>
+<record>
+  <date>2023-06-12T17:14:47</date>
+  <millis>1686557687783</millis>
+  <sequence>1</sequence>
+  <logger>net.daum.javacafe</logger>
+  <level>INFO</level>
+  <class>net.daum.javacafe.SimpleChatServer</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>요청을 기다리는 중..</message>
+</record>
+<record>
+  <date>2023-06-12T17:15:31</date>
+  <millis>1686557731596</millis>
+  <sequence>2</sequence>
+  <logger>net.daum.javacafe</logger>
+  <level>INFO</level>
+  <class>net.daum.javacafe.SimpleChatServer</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>java.nio.channels.SocketChannel[connected local=/127.0.0.1:9090 remote=/127.0.0.1:51655] 클라이언트가 접속했습니다.</message>
+</record>
+<record>
+  <date>2023-06-12T17:15:31</date>
+  <millis>1686557731597</millis>
+  <sequence>3</sequence>
+  <logger>net.daum.javacafe</logger>
+  <level>INFO</level>
+  <class>net.daum.javacafe.SimpleChatServer</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>요청을 기다리는 중..</message>
+</record>
+<record>
+  <date>2023-06-12T17:15:37</date>
+  <millis>1686557737085</millis>
+  <sequence>4</sequence>
+  <logger>net.daum.javacafe</logger>
+  <level>INFO</level>
+  <class>net.daum.javacafe.SimpleChatServer</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>7 byte 를 읽었습니다.</message>
+</record>
+<record>
+  <date>2023-06-12T17:15:37</date>
+  <millis>1686557737095</millis>
+  <sequence>5</sequence>
+  <logger>net.daum.javacafe</logger>
+  <level>INFO</level>
+  <class>net.daum.javacafe.SimpleChatServer</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>요청을 기다리는 중..</message>
+</record>
+<record>
+  <date>2023-06-12T17:15:39</date>
+  <millis>1686557739597</millis>
+  <sequence>6</sequence>
+  <logger>net.daum.javacafe</logger>
+  <level>INFO</level>
+  <class>net.daum.javacafe.SimpleChatServer</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>3 byte 를 읽었습니다.</message>
+</record>
+<record>
+  <date>2023-06-12T17:15:39</date>
+  <millis>1686557739598</millis>
+  <sequence>7</sequence>
+  <logger>net.daum.javacafe</logger>
+  <level>INFO</level>
+  <class>net.daum.javacafe.SimpleChatServer</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>요청을 기다리는 중..</message>
+</record>
+<record>
+  <date>2023-06-12T17:15:41</date>
+  <millis>1686557741702</millis>
+  <sequence>8</sequence>
+  <logger>net.daum.javacafe</logger>
+  <level>INFO</level>
+  <class>net.daum.javacafe.SimpleChatServer</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>java.nio.channels.SocketChannel[closed] 클라언트가 접속을 해제했습니다.</message>
+</record>
+<record>
+  <date>2023-06-12T17:15:41</date>
+  <millis>1686557741703</millis>
+  <sequence>9</sequence>
+  <logger>net.daum.javacafe</logger>
+  <level>INFO</level>
+  <class>net.daum.javacafe.SimpleChatServer</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>요청을 기다리는 중..</message>
+</record>
+<record>
+  <date>2023-06-12T17:16:04</date>
+  <millis>1686557764778</millis>
+  <sequence>10</sequence>
+  <logger>net.daum.javacafe</logger>
+  <level>INFO</level>
+  <class>net.daum.javacafe.SimpleChatServer</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>java.nio.channels.SocketChannel[connected local=/127.0.0.1:9090 remote=/127.0.0.1:51669] 클라이언트가 접속했습니다.</message>
+</record>
+<record>
+  <date>2023-06-12T17:16:04</date>
+  <millis>1686557764779</millis>
+  <sequence>11</sequence>
+  <logger>net.daum.javacafe</logger>
+  <level>INFO</level>
+  <class>net.daum.javacafe.SimpleChatServer</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>요청을 기다리는 중..</message>
+</record>
+<record>
+  <date>2023-06-12T17:16:06</date>
+  <millis>1686557766212</millis>
+  <sequence>12</sequence>
+  <logger>net.daum.javacafe</logger>
+  <level>INFO</level>
+  <class>net.daum.javacafe.SimpleChatServer</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>6 byte 를 읽었습니다.</message>
+</record>
+<record>
+  <date>2023-06-12T17:16:06</date>
+  <millis>1686557766213</millis>
+  <sequence>13</sequence>
+  <logger>net.daum.javacafe</logger>
+  <level>INFO</level>
+  <class>net.daum.javacafe.SimpleChatServer</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>요청을 기다리는 중..</message>
+</record>
+<record>
+  <date>2023-06-12T17:16:24</date>
+  <millis>1686557784614</millis>
+  <sequence>14</sequence>
+  <logger>net.daum.javacafe</logger>
+  <level>INFO</level>
+  <class>net.daum.javacafe.SimpleChatServer</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>java.nio.channels.SocketChannel[connected local=/127.0.0.1:9090 remote=/127.0.0.1:51675] 클라이언트가 접속했습니다.</message>
+</record>
+<record>
+  <date>2023-06-12T17:16:24</date>
+  <millis>1686557784615</millis>
+  <sequence>15</sequence>
+  <logger>net.daum.javacafe</logger>
+  <level>INFO</level>
+  <class>net.daum.javacafe.SimpleChatServer</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>요청을 기다리는 중..</message>
+</record>
+<record>
+  <date>2023-06-12T17:16:27</date>
+  <millis>1686557787789</millis>
+  <sequence>16</sequence>
+  <logger>net.daum.javacafe</logger>
+  <level>INFO</level>
+  <class>net.daum.javacafe.SimpleChatServer</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>6 byte 를 읽었습니다.</message>
+</record>
+<record>
+  <date>2023-06-12T17:16:27</date>
+  <millis>1686557787789</millis>
+  <sequence>17</sequence>
+  <logger>net.daum.javacafe</logger>
+  <level>INFO</level>
+  <class>net.daum.javacafe.SimpleChatServer</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>요청을 기다리는 중..</message>
+</record>
+<record>
+  <date>2023-06-12T17:16:36</date>
+  <millis>1686557796433</millis>
+  <sequence>18</sequence>
+  <logger>net.daum.javacafe</logger>
+  <level>INFO</level>
+  <class>net.daum.javacafe.SimpleChatServer</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>6 byte 를 읽었습니다.</message>
+</record>
+<record>
+  <date>2023-06-12T17:16:36</date>
+  <millis>1686557796434</millis>
+  <sequence>19</sequence>
+  <logger>net.daum.javacafe</logger>
+  <level>INFO</level>
+  <class>net.daum.javacafe.SimpleChatServer</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>요청을 기다리는 중..</message>
+</record>
+<record>
+  <date>2023-06-12T17:27:11</date>
+  <millis>1686558431658</millis>
+  <sequence>20</sequence>
+  <logger>net.daum.javacafe</logger>
+  <level>INFO</level>
+  <class>net.daum.javacafe.SimpleChatServer</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>14 byte 를 읽었습니다.</message>
+</record>
+<record>
+  <date>2023-06-12T17:27:11</date>
+  <millis>1686558431659</millis>
+  <sequence>21</sequence>
+  <logger>net.daum.javacafe</logger>
+  <level>INFO</level>
+  <class>net.daum.javacafe.SimpleChatServer</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>요청을 기다리는 중..</message>
+</record>
+<record>
+  <date>2023-06-12T17:37:27</date>
+  <millis>1686559047156</millis>
+  <sequence>22</sequence>
+  <logger>net.daum.javacafe</logger>
+  <level>INFO</level>
+  <class>net.daum.javacafe.SimpleChatServer</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>5 byte 를 읽었습니다.</message>
+</record>
+<record>
+  <date>2023-06-12T17:37:27</date>
+  <millis>1686559047157</millis>
+  <sequence>23</sequence>
+  <logger>net.daum.javacafe</logger>
+  <level>INFO</level>
+  <class>net.daum.javacafe.SimpleChatServer</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>요청을 기다리는 중..</message>
+</record>
+<record>
+  <date>2023-06-12T17:37:34</date>
+  <millis>1686559054334</millis>
+  <sequence>24</sequence>
+  <logger>net.daum.javacafe</logger>
+  <level>INFO</level>
+  <class>net.daum.javacafe.SimpleChatServer</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>java.nio.channels.SocketChannel[closed] 클라언트가 접속을 해제했습니다.</message>
+</record>
+<record>
+  <date>2023-06-12T17:37:34</date>
+  <millis>1686559054334</millis>
+  <sequence>25</sequence>
+  <logger>net.daum.javacafe</logger>
+  <level>INFO</level>
+  <class>net.daum.javacafe.SimpleChatServer</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>요청을 기다리는 중..</message>
+</record>
+<record>
+  <date>2023-06-12T17:37:40</date>
+  <millis>1686559060576</millis>
+  <sequence>26</sequence>
+  <logger>net.daum.javacafe</logger>
+  <level>INFO</level>
+  <class>net.daum.javacafe.SimpleChatServer</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>2 byte 를 읽었습니다.</message>
+</record>
+<record>
+  <date>2023-06-12T17:37:40</date>
+  <millis>1686559060577</millis>
+  <sequence>27</sequence>
+  <logger>net.daum.javacafe</logger>
+  <level>INFO</level>
+  <class>net.daum.javacafe.SimpleChatServer</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>요청을 기다리는 중..</message>
+</record>
+<record>
+  <date>2023-06-12T17:37:43</date>
+  <millis>1686559063646</millis>
+  <sequence>28</sequence>
+  <logger>net.daum.javacafe</logger>
+  <level>INFO</level>
+  <class>net.daum.javacafe.SimpleChatServer</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>2 byte 를 읽었습니다.</message>
+</record>
+<record>
+  <date>2023-06-12T17:37:43</date>
+  <millis>1686559063647</millis>
+  <sequence>29</sequence>
+  <logger>net.daum.javacafe</logger>
+  <level>INFO</level>
+  <class>net.daum.javacafe.SimpleChatServer</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>요청을 기다리는 중..</message>
+</record>
+<record>
+  <date>2023-06-12T17:37:45</date>
+  <millis>1686559065052</millis>
+  <sequence>30</sequence>
+  <logger>net.daum.javacafe</logger>
+  <level>INFO</level>
+  <class>net.daum.javacafe.SimpleChatServer</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>2 byte 를 읽었습니다.</message>
+</record>
+<record>
+  <date>2023-06-12T17:37:45</date>
+  <millis>1686559065053</millis>
+  <sequence>31</sequence>
+  <logger>net.daum.javacafe</logger>
+  <level>INFO</level>
+  <class>net.daum.javacafe.SimpleChatServer</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>요청을 기다리는 중..</message>
+</record>
+<record>
+  <date>2023-06-12T17:37:51</date>
+  <millis>1686559071364</millis>
+  <sequence>32</sequence>
+  <logger>net.daum.javacafe</logger>
+  <level>INFO</level>
+  <class>net.daum.javacafe.SimpleChatServer</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>java.nio.channels.SocketChannel[connected local=/127.0.0.1:9090 remote=/127.0.0.1:51967] 클라이언트가 접속했습니다.</message>
+</record>
+<record>
+  <date>2023-06-12T17:37:51</date>
+  <millis>1686559071365</millis>
+  <sequence>33</sequence>
+  <logger>net.daum.javacafe</logger>
+  <level>INFO</level>
+  <class>net.daum.javacafe.SimpleChatServer</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>요청을 기다리는 중..</message>
+</record>
+<record>
+  <date>2023-06-12T17:37:52</date>
+  <millis>1686559072583</millis>
+  <sequence>34</sequence>
+  <logger>net.daum.javacafe</logger>
+  <level>INFO</level>
+  <class>net.daum.javacafe.SimpleChatServer</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>2 byte 를 읽었습니다.</message>
+</record>
+<record>
+  <date>2023-06-12T17:37:52</date>
+  <millis>1686559072584</millis>
+  <sequence>35</sequence>
+  <logger>net.daum.javacafe</logger>
+  <level>INFO</level>
+  <class>net.daum.javacafe.SimpleChatServer</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>요청을 기다리는 중..</message>
+</record>
+<record>
+  <date>2023-06-12T17:37:53</date>
+  <millis>1686559073641</millis>
+  <sequence>36</sequence>
+  <logger>net.daum.javacafe</logger>
+  <level>INFO</level>
+  <class>net.daum.javacafe.SimpleChatServer</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>2 byte 를 읽었습니다.</message>
+</record>
+<record>
+  <date>2023-06-12T17:37:53</date>
+  <millis>1686559073642</millis>
+  <sequence>37</sequence>
+  <logger>net.daum.javacafe</logger>
+  <level>INFO</level>
+  <class>net.daum.javacafe.SimpleChatServer</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>요청을 기다리는 중..</message>
+</record>
+<record>
+  <date>2023-06-12T17:44:10</date>
+  <millis>1686559450337</millis>
+  <sequence>38</sequence>
+  <logger>net.daum.javacafe</logger>
+  <level>INFO</level>
+  <class>net.daum.javacafe.SimpleChatServer</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>java.nio.channels.SocketChannel[closed] 클라언트가 접속을 해제했습니다.</message>
+</record>
+<record>
+  <date>2023-06-12T17:44:10</date>
+  <millis>1686559450340</millis>
+  <sequence>39</sequence>
+  <logger>net.daum.javacafe</logger>
+  <level>INFO</level>
+  <class>net.daum.javacafe.SimpleChatServer</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>요청을 기다리는 중..</message>
+</record>
+<record>
+  <date>2023-06-12T17:45:08</date>
+  <millis>1686559508741</millis>
+  <sequence>40</sequence>
+  <logger>net.daum.javacafe</logger>
+  <level>INFO</level>
+  <class>net.daum.javacafe.SimpleChatServer</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>java.nio.channels.SocketChannel[closed] 클라언트가 접속을 해제했습니다.</message>
+</record>
+<record>
+  <date>2023-06-12T17:45:08</date>
+  <millis>1686559508742</millis>
+  <sequence>41</sequence>
+  <logger>net.daum.javacafe</logger>
+  <level>INFO</level>
+  <class>net.daum.javacafe.SimpleChatServer</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>요청을 기다리는 중..</message>
+</record>
+<record>
+  <date>2023-06-12T17:45:47</date>
+  <millis>1686559547643</millis>
+  <sequence>42</sequence>
+  <logger>net.daum.javacafe</logger>
+  <level>INFO</level>
+  <class>net.daum.javacafe.SimpleChatServer</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>java.nio.channels.SocketChannel[connected local=/127.0.0.1:9090 remote=/127.0.0.1:51982] 클라이언트가 접속했습니다.</message>
+</record>
+<record>
+  <date>2023-06-12T17:45:47</date>
+  <millis>1686559547644</millis>
+  <sequence>43</sequence>
+  <logger>net.daum.javacafe</logger>
+  <level>INFO</level>
+  <class>net.daum.javacafe.SimpleChatServer</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>요청을 기다리는 중..</message>
+</record>
+<record>
+  <date>2023-06-12T17:45:49</date>
+  <millis>1686559549235</millis>
+  <sequence>44</sequence>
+  <logger>net.daum.javacafe</logger>
+  <level>INFO</level>
+  <class>net.daum.javacafe.SimpleChatServer</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>7 byte 를 읽었습니다.</message>
+</record>
+<record>
+  <date>2023-06-12T17:45:49</date>
+  <millis>1686559549236</millis>
+  <sequence>45</sequence>
+  <logger>net.daum.javacafe</logger>
+  <level>INFO</level>
+  <class>net.daum.javacafe.SimpleChatServer</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>요청을 기다리는 중..</message>
+</record>
+<record>
+  <date>2023-06-12T17:45:51</date>
+  <millis>1686559551728</millis>
+  <sequence>46</sequence>
+  <logger>net.daum.javacafe</logger>
+  <level>INFO</level>
+  <class>net.daum.javacafe.SimpleChatServer</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>6 byte 를 읽었습니다.</message>
+</record>
+<record>
+  <date>2023-06-12T17:45:51</date>
+  <millis>1686559551729</millis>
+  <sequence>47</sequence>
+  <logger>net.daum.javacafe</logger>
+  <level>INFO</level>
+  <class>net.daum.javacafe.SimpleChatServer</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>요청을 기다리는 중..</message>
+</record>
+<record>
+  <date>2023-06-12T17:46:01</date>
+  <millis>1686559561657</millis>
+  <sequence>48</sequence>
+  <logger>net.daum.javacafe</logger>
+  <level>INFO</level>
+  <class>net.daum.javacafe.SimpleChatServer</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>4 byte 를 읽었습니다.</message>
+</record>
+<record>
+  <date>2023-06-12T17:46:01</date>
+  <millis>1686559561658</millis>
+  <sequence>49</sequence>
+  <logger>net.daum.javacafe</logger>
+  <level>INFO</level>
+  <class>net.daum.javacafe.SimpleChatServer</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>요청을 기다리는 중..</message>
+</record>
+<record>
+  <date>2023-06-12T17:46:04</date>
+  <millis>1686559564356</millis>
+  <sequence>50</sequence>
+  <logger>net.daum.javacafe</logger>
+  <level>INFO</level>
+  <class>net.daum.javacafe.SimpleChatServer</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>10 byte 를 읽었습니다.</message>
+</record>
+<record>
+  <date>2023-06-12T17:46:04</date>
+  <millis>1686559564357</millis>
+  <sequence>51</sequence>
+  <logger>net.daum.javacafe</logger>
+  <level>INFO</level>
+  <class>net.daum.javacafe.SimpleChatServer</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>요청을 기다리는 중..</message>
+</record>
